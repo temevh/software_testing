@@ -1,4 +1,4 @@
-import capitalize from "../functions/src/capitalize";
+import capitalize from "../src/capitalize";
 
 describe("capitalize", () => {
   test("Input a lowercase string", () => {
