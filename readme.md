@@ -15,3 +15,5 @@ Every.js
 
 To install needed packages run `npm install` in project root
 To run the tests run `npm test` in project root
+
+Link to coveralls https://coveralls.io/github/temevh/software_testing
